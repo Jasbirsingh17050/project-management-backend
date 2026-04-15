@@ -161,5 +161,11 @@ GitHub: https://github.com/Jasbirsingh17050
 * Pagination
 * Filtering & Search
 * Deployment (Render / AWS)
+## 📬 Postman Collection
 
+The Postman collection is included in this repository:
+
+`project_management_postman_collection.json`
+
+Import this file into Postman to test all APIs easily.
 ---
